@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250516065314 +0800">
+<tv date="20250516104406 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8001,6 +8001,15 @@
 	<programme channel="黑莓动画" start="20250516111200 +0800" stop="20250516124100 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250516124100 +0800" stop="20250516140900 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250516140900 +0800" stop="20250516152700 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250516152700 +0800" stop="20250516165600 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8027,6 +8036,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250516110500 +0800" stop="20250516124500 +0800">
 		<title lang="zh">通往天国的倒计时</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250516124500 +0800" stop="20250516143200 +0800">
+		<title lang="zh">老当益壮</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250516143200 +0800" stop="20250516155300 +0800">
+		<title lang="zh">西游之双圣战神</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250516155300 +0800" stop="20250516171600 +0800">
+		<title lang="zh">绝对忠诚之国家利益</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
