@@ -1,5 +1,6 @@
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -32,8 +33,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🪁动画频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.iill.top/huya/11342413
-猫和老鼠,https://live.iill.top/huya/11352879
-经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2025-06-30 18:27:34,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+2025-07-01 06:24:35,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
