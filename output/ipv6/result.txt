@@ -18,8 +18,8 @@ CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=C
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 
 🎬电影频道,#genre#
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
@@ -33,7 +33,8 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 
 🪁动画频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413
 经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2025-08-05 06:26:06,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2025-08-05 18:27:42,https://event.pull.hebtv.com/jishi/cp1.m3u8
