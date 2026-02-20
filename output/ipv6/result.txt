@@ -8,11 +8,11 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&tm=1757355490&token=a88466c8c0d3788d333987df991cb29c1bbdcede9924a8d3026202c22940b447704ff2c9123c66b2c48ec34b9f837524f69b99aff7581076d033af2d938587885b364200fd4b1194f2dea477e1
 
 🌊港·澳·台,#genre#
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -36,10 +36,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
-中华小当家,https://live.ottiptv.cc/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2026-02-20 06:50:45,https://cdn3.163189.xyz/163189/cctv13
+2026-02-20 18:43:07,https://cdn3.163189.xyz/163189/cctv13
