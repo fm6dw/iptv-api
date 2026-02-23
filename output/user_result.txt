@@ -14,8 +14,8 @@ CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -41,12 +41,10 @@ CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
@@ -57,7 +55,6 @@ CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 
 ☘️上海频道,#genre#
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&tm=1757355490&token=a88466c8c0d3788d333987df991cb29c1bbdcede9924a8d3026202c22940b447704ff2c9123c66b2c48ec34b9f837524f69b99aff7581076d033af2d938587885b364200fd4b1194f2dea477e1
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://218.78.179.62:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8
@@ -74,14 +71,15 @@ CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 纬来育乐,rtmp://220.130.201.73/sat/tv701
+J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -89,14 +87,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-靖天映画,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDXv1SfZ1MhhtLDvMdZtSidqO1YPWuu00ZaAz_b0Ihbb7Q51OkyNfs2D8NErQUB5-ZDHT6Zkkf4Hw28oxeuXPQzXaayE0zVcA9b4AcBPQgt0YsLk64wcv91Sa-Gk0nDTE_RP3qgYMpUNpTTTLiTGKOXSdye5XmlIjbipatd2QaTM1ylxLytNz7bMJPC2hDabAHqbtO9DZZ-4DuMvYfMNGbg.m3u8?u=1757123819
-靖天映画,http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
-靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGSGiDeEPqIEJVx3us26kmLFaDm0KCC0qIr1Xros8zGoEPNHaFzXQLAiFBlbr6qSvMN5Z7yzGqNwECOOaVoXxtgc_IdHKrPb4FGmjpSksjE4YiIB4zSSExvnI840FbChvM6nuX5fTEJvHNzPV2pAMh-QJEfasmpz5B3lviCX9MWMdXaAo8lT1pjXYD8bOrAEL1aJIrb60F_VojtF9C3btvEQ.m3u8?u=1757123819
-靖天戏剧,http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true
-靖天戏剧,http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
@@ -104,6 +95,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 星空卫视,http://119.32.12.17:2901/udp/224.1.100.13:11111
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+东森洋片,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8
 
 🏀体育频道,#genre#
@@ -114,8 +106,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 
 🪁动画频道,#genre#
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -126,16 +118,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
-动漫秀场,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG65Z92UDWjXjUztx8_6jXB9paauw4zZI0JtsOY0HKF0lC8_JLi2pa2Ma0in_8jninRMK9S6ET_iXvB0tt02GhFMVjLlS7gQGcvNT4wy5TGJ-pnjzynVYXfleaV6B-PTVjzainvo1nrtsX0XQfIjD4Wu_342NdqjeGOY-wKDY51eFJJmRV1ksdNOtjFabg76ifiDVsRkidO7CjSocYw1pRIQ.m3u8?u=1757123819
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
-动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
-动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
-动漫秀场,http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
-动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.212.72/PLTV/88888888/224/3221225613/iptv7997.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -145,9 +127,16 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
+金鹰卡通,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=hnjykt&apiKey=73c963d13814ce7d0e4743c5e7d033cc
+金鹰卡通,http://125.43.249.130:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://ylt.7766.org:333/hls/73/index.m3u8
-黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2912&tk=e503191f8e20
-黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
+金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://61.184.46.85:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://ak6668768.zicp.io:8857/live1060.m3u8
+金鹰卡通,http://112.46.105.20:8009/hls/67/index.m3u8
+金鹰卡通,http://218.15.183.23:9901/tsfile/live/23041_1.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
@@ -159,10 +148,13 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
-中华小当家,https://live.ottiptv.cc/huya/11342413
+中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+猫和老鼠,https://live.metshop.top/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2026-02-23 19:11:30,http://23.237.228.134/live5/CCTV3.m3u8
+2026-02-24 06:58:54,http://23.237.228.134/live5/CCTV3.m3u8
