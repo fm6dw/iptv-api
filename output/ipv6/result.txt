@@ -5,8 +5,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 📡卫视频道,#genre#
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 
 ☘️北京频道,#genre#
@@ -33,6 +33,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.metshop.top/huya/11352879
+经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2026-06-09 20:59:53,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-06-10 07:39:03,https://event.pull.hebtv.com/jishi/cp1.m3u8
