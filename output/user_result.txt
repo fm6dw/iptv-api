@@ -8,8 +8,8 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027e
 
 📡卫视频道,#genre#
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
@@ -30,6 +30,7 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027e
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8
 
@@ -52,17 +53,14 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027e
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
 🎬电影频道,#genre#
-黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
@@ -75,12 +73,10 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8
 
 🏀体育频道,#genre#
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -90,17 +86,10 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
-动漫秀场,http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
-动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
-动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.212.72/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.247.80/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.230.145/PLTV/88888888/224/3221225613/iptv7997.smil
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -110,9 +99,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 金鹰卡通,http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
-炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
+炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
@@ -121,14 +109,10 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
+七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
-中华小当家,https://live.metshop.top/huya/11342413
-中华小当家,https://live.ottiptv.cc/huya/11342413
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-猫和老鼠,https://live.metshop.top/huya/11352879
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
-经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2026-07-01 07:19:02,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2026-07-01 20:39:11,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
