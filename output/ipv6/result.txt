@@ -17,15 +17,16 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://cdn.qd.je/163189/mzt
+凤凰香港,https://cdn.qd.je/163189/fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港,https://cdn.qd.je/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
-无线新闻,http://r.jdshipin.com/CkuBd
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
@@ -34,7 +35,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 无线星河,http://r.jdshipin.com/Voac4
-无线星河,http://r.jdshipin.com/sXuuD
 
 🏀体育频道,#genre#
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -47,6 +47,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+经典动漫,https://www.goodiptv.club/yy/22777075
 
 🕘️更新时间,#genre#
-2026-08-29 05:15:16,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-29 11:39:35,https://event.pull.hebtv.com/jishi/cp1.m3u8
