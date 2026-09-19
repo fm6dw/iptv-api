@@ -2,8 +2,8 @@
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
 CCTV-5,http://120.198.95.220:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
@@ -15,8 +15,8 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
-贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
+贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -26,8 +26,8 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89
 江苏卫视,http://drive.mxmy.net:8888/udp/239.3.1.135:8028
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
-辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
+辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
@@ -78,20 +78,14 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8
 
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&amp;amp;playlive=0&amp;amp;authid=0
+劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-风云足球,http://183.11.239.36:808/hls/133/index.m3u8
-风云足球,http://115.150.63.77:9902/tsfile/live/1028_1.m3u8
-风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
-风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
-风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
-风云足球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227000/86128919.smil
 
 🪁动画频道,#genre#
 少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
@@ -106,9 +100,9 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
+动漫秀场,http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
 动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 动漫秀场,http://116.228.170.214:9003/hls/21/index.m3u8
-动漫秀场,http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
 动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
 动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
 动漫秀场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225613/iptv7997.smil
@@ -135,4 +129,4 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 
 🕘️更新时间,#genre#
-2026-09-18 22:16:53,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+2026-09-19 08:02:34,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
