@@ -41,4 +41,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 
 🕘️更新时间,#genre#
-2026-10-04 08:30:28,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-04 23:19:02,https://event.pull.hebtv.com/jishi/cp1.m3u8
