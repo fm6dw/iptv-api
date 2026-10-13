@@ -33,8 +33,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.metshop.top/huya/11352879
@@ -42,4 +42,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 
 🕘️更新时间,#genre#
-2026-10-13 11:00:33,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-14 01:29:45,https://event.pull.hebtv.com/jishi/cp1.m3u8
